@@ -15,4 +15,5 @@
  в 2025 году стать программистом Python!
 
  **Фото:**
-![alt text](20240730-IMG_6818-1.jpg)
+![20240730-IMG_6818](https://github.com/user-attachments/assets/43737a5b-5508-41b8-83c0-349c3a7264d6)
+]
